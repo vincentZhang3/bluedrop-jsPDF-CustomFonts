@@ -1,8 +1,8 @@
 {
-  "name": "jspdf-customfonts",
-  "version": "0.0.3-rc.7",
-  "homepage": "https://github.com/sphilee/jsPDF-CustomFonts-support",
-  "description": "Add Custom fonts support to jsPDF",
+  "name": "bluedrop-jspdf-customfonts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vincentZhang3/bluedrop-jsPDF-CustomFonts",
+  "description": "Add Custom fonts support to jsPDF for bluedrop",
   "main": "dist/jspdf.customfonts.min.js",
   "files": [
     "dist/jspdf.customfonts.debug.js",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sphilee/jsPDF-CustomFonts-support.git"
+    "url": "https://github.com/vincentZhang3/bluedrop-jsPDF-CustomFonts.git"
   },
   "dependencies": {
     "adler32cs": "0.0.1",
